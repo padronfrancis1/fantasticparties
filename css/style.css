@@ -945,5 +945,26 @@ button.owl-next {
 }
 
 
+@media (max-width: 768px) {
+    .price_box {
+      font-size: 14px;
+      padding: 20px 15px;
+    }
+  
+    .price_box h4.rate_text {
+      font-size: 22px;
+    }
+  
+    .price_box p.month_text {
+      font-size: 14px;
+    }
+  
+    .price_box ul li {
+      font-size: 13px;
+      line-height: 1.4;
+    }
+  }
+  
+
 /* copyright section end */
 
