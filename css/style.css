@@ -868,6 +868,15 @@ button.owl-next {
     margin: 0 auto;
     text-align: center;
     padding-top: var(--spacing-lg);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure package columns have equal height */
+.price_section .row [class*="col-"] {
+    display: flex;
+    flex-direction: column;
 }
 
 .first_price_text {
@@ -924,6 +933,9 @@ button.owl-next {
     border-radius: 0 0 var(--radius-large) var(--radius-large);
     border: 3px solid var(--color-light);
     border-top: none;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .price_box ul {
