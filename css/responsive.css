@@ -1,449 +1,800 @@
 /*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
 
+/* ============================================
+   MOBILE-FIRST RESPONSIVE DESIGN
+   Kid-friendly party website
+   ============================================ */
 
-/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+/* ----------------------------------------
+   Extra Large Desktop (1200px and up)
+   ---------------------------------------- */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    
-    .header-search {
-        padding: 15px 0px;
+    .price_section_2 {
+        width: 70%;
     }
 }
 
-
-/*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
-
-@media only screen and (min-width: 599px) and (max-width: 767px) {
-    .logo {
-        text-align: center;
-    }
-    .cart-content-right {
-        padding-bottom: 5px;
-    }
-    .mg {
-        margin: 0px 0px;
-    }
-    .menu-area-main {
-        height: 256px;
-        overflow-y: auto;
-    }
-    .megamenu>.row [class*="col-"] {
-        padding: 0px;
-    }
-    .menu-area-main .megamenu .men-cat {
-        padding: 0px 15px;
-    }
-    .menu-area-main .megamenu .women-cat {
-        padding: 0px 15px;
-    }
-    .menu-area-main .megamenu .el-cat {
-        padding: 0px 15px;
-    }
-    .mean-container .mean-nav ul li a.mean-expand {
-        height: 19px;
-    }
-    .category-box.women-box {
-        display: none;
-    }
-    .cart-box {
-        display: inline-block;
-        margin: 0px 30px;
-    }
-    .wish-box {
-        float: none;
-        margin: 0px 30px;
-        display: inline-block;
-    }
-    .menu-add {
-        display: none;
-    }
-    .category-box {
-        display: none;
-    }
-    .mean-container .mean-nav ul li ol {
-        padding: 0px;
-    }
-    .mean-container .mean-nav ul li a {
-        padding: 10px 20px;
-        width: 94.8%;
-    }
-    .mean-container .mean-nav ul li li a {
-        width: 92%;
-        padding: 1em 4%;
-    }
-    .mean-container .mean-nav ul li li li a {
-        width: 100%;
-    }
-    .header-search {
-        padding: 15px 0px;
-    }
-    #collapseFilter.d-md-block {
-        padding: 30px 0px;
-    }
-}
-
-
-/*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
-
-@media only screen and (min-width: 280px) and (max-width: 599px) {
-    .cart-content-right {
-        padding-bottom: 5px;
-    }
-    .megamenu>.row [class*="col-"] {
-        padding: 0px;
-    }
-    .menu-area-main .megamenu .men-cat {
-        padding: 0px 15px;
-    }
-    .menu-area-main .megamenu .women-cat {
-        padding: 0px 15px;
-    }
-    .menu-area-main .megamenu .el-cat {
-        padding: 0px 15px;
-    }
-    .mean-container .mean-nav ul li a {
-        padding: 1em 4%;
-        width: 92%;
-    }
-    .mean-container .mean-nav ul li li a {
-        width: 90%;
-        padding: 1em 5%;
-    }
-    .mean-container .sub-full.megamenu-categories ol li a {
-        padding: 5px 0px;
-        text-transform: capitalize;
-        width: 100%;
-    }
-    .megamenu .sub-full.megamenu-categories .women-box .banner-up-text a {
-        width: auto;
-        border: none;
-        float: none;
-    }
-    .menu-area-main {
-        height: 45px;
-        overflow-y: auto;
-    }
-    .mean-container .mean-nav ul li a.mean-expand {
-        top: 0;
-    }
-
-
-
-
-
-}
-
+/* ----------------------------------------
+   Large Desktop (992px - 1199px)
+   ---------------------------------------- */
 @media (min-width: 992px) and (max-width: 1199px) {
-    
-.user_icon {
-    width: 40px;
+
+    .user_icon {
+        width: 40px;
+    }
+
+    .my-lg-0 {
+        margin-right: 0;
+    }
+
+    .call_btn {
+        width: auto;
+        flex: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 8px;
+        padding-left: 8px;
+        font-size: 14px;
+    }
+
+    .banner_taital {
+        font-size: 110px;
+        padding-top: 10px;
+    }
+
+    .image_box {
+        padding: 24% 90px;
+    }
+
+    button.owl-prev {
+        left: 0px;
+        position: absolute;
+    }
+
+    button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+
+    .taital_main {
+        width: 80%;
+    }
+
+    .dummy_text {
+        width: 50%;
+    }
+
+    .contact_main {
+        padding-top: 40px;
+        width: 70%;
+    }
+
+    .price_section_2 {
+        width: 85%;
+    }
 }
 
-.my-lg-0 {
-    margin-right: 0;
-}
-
-.call_btn {
-    width: auto;
-    flex: none;
-}
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 6px;
-    padding-left: 6px;
-}
-
-.banner_taital {
-    font-size: 110px;
-    padding-top: 10px;
-}
-
-.image_box {
-    padding: 24% 90px;
-}
-
-button.owl-prev {
-    left: 0px;
-    position: absolute;
-}
-
-button.owl-next {
-    right: 0px;
-    position: absolute;
-}
-
-.taital_main {
-    width: 80%;
-}
-
-.dummy_text {
-    width: 50%;
-}
-.contact_main {
-    padding-top: 40px;
-}
-
-
-
-}
-
+/* ----------------------------------------
+   Tablet Landscape (768px - 991px)
+   ---------------------------------------- */
 @media (min-width: 768px) and (max-width: 991px) {
 
-.banner_taital {
-    font-size: 90px;
-}
-.banner_img {
-    width: 65%;
-}
-.image_box {
-    padding: 22% 62px;
+    /* Hero section tablet landscape */
+    .hero_section {
+        padding: 40px 25px 80px 25px;
+    }
+
+    .logo_card {
+        padding: 25px;
+        max-width: 380px;
+    }
+
+    .logo_card img {
+        max-height: 150px;
+    }
+
+    .heading_card {
+        padding: 35px 25px;
+        max-width: 800px;
+    }
+
+    .hero_taital {
+        font-size: 40px;
+    }
+
+    .hero_subtitle {
+        font-size: 17px;
+    }
+
+    .banner_taital {
+        font-size: 90px;
+    }
+
+    .banner_img {
+        width: 65%;
+    }
+
+    .image_box {
+        padding: 22% 62px;
+    }
+
+    button.owl-prev {
+        left: 0px;
+        position: absolute;
+    }
+
+    button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+
+    .price_section_2 {
+        width: 100%;
+    }
+
+    .taital_main {
+        width: 80%;
+    }
+
+    .client_right {
+        padding-top: 10px;
+    }
+
+    .client_img {
+        padding-top: 15px;
+    }
+
+    .client_right_2 {
+        padding-top: 10px;
+    }
+
+    .contact_main {
+        width: 80%;
+        padding-top: 40px;
+    }
+
+    .location_main li {
+        padding: 20px 25px;
+        font-size: 14px;
+    }
+
+    .service_taital {
+        font-size: 34px;
+    }
+
+    .price_taital {
+        font-size: 34px;
+    }
+
+    .contact_taital {
+        font-size: 34px;
+    }
+
+    .first_price_text {
+        font-size: 20px;
+    }
+
+    .sound_text {
+        font-size: 20px;
+    }
+
+    /* Better grid for services on tablet */
+    .service_section .row .col-md-4 {
+        margin-bottom: 30px;
+    }
 }
 
-button.owl-prev {
-    left: 0px;
-    position: absolute;
-}
-
-button.owl-next {
-    right: 0px;
-    position: absolute;
-}
-
-.price_section_2 {
-    width: 100%;
-}
-
-.taital_main {
-    width: 80%;
-}
-
-.client_right {
-    padding-top: 10px;
-}
-.client_img {
-    padding-top: 15px;
-}
-
-.client_right_2 {
-    padding-top: 10px;
-}
-
-.contact_main {
-    width: 70%;
-    padding-top: 40px;
-}
-
-.location_main li {
-    padding: 30px 35px 30px 35px;
-}
-
-}
-
+/* ----------------------------------------
+   Tablet Portrait (576px - 767px)
+   ---------------------------------------- */
 @media (min-width: 576px) and (max-width: 767px) {
 
+    /* Hero section tablet */
+    .hero_section {
+        padding: 35px 20px 70px 20px;
+    }
 
-.navbar-brand {
-    width: 40%;
+    .call_btn_hero {
+        top: 15px;
+        right: 15px;
+    }
+
+    .call_btn_hero a {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+
+    .logo_card {
+        padding: 25px;
+        max-width: 350px;
+        margin-bottom: 25px;
+    }
+
+    .logo_card img {
+        max-height: 120px;
+    }
+
+    .heading_card {
+        padding: 30px 20px;
+        max-width: 650px;
+    }
+
+    .hero_taital {
+        font-size: 32px;
+    }
+
+    .hero_subtitle {
+        font-size: 16px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+        padding: 10px 15px;
+    }
+
+    .user_icon {
+        display: none;
+    }
+
+    .call_btn {
+        margin: 15px auto;
+        width: 100%;
+        text-align: center;
+    }
+
+    .call_btn a {
+        display: inline-block;
+        width: auto;
+        padding: 12px 30px;
+    }
+
+    .banner_section {
+        padding-top: 60px;
+    }
+
+    .banner_taital {
+        font-size: 76px;
+        padding-top: 40px;
+    }
+
+    .banner_img {
+        width: 70%;
+    }
+
+    .contact_bt {
+        padding: 190px 0px 0px 0px;
+    }
+
+    .service_taital {
+        font-size: 28px;
+        line-height: 1.3;
+    }
+
+    .service_section_2 {
+        padding-top: 50px;
+    }
+
+    .image_box {
+        padding: 30% 140px;
+    }
+
+    .service_section .owl-item.active.center .image_box {
+        margin-bottom: 30px;
+    }
+
+    .about_taital {
+        font-size: 28px;
+    }
+
+    .price_section_2 {
+        width: 100%;
+    }
+
+    .taital_main {
+        width: 85%;
+    }
+
+    .dummy_text {
+        width: 50%;
+    }
+
+    .client_section_2 {
+        width: 100%;
+    }
+
+    .client_main {
+        border-radius: 10px;
+    }
+
+    .client_right {
+        padding-top: 15px;
+    }
+
+    .client_main_2 {
+        border-radius: 10px;
+    }
+
+    .client_right_2 {
+        padding-top: 15px;
+    }
+
+    .contact_main {
+        width: 90%;
+        padding-top: 40px;
+    }
+
+    .location_main li {
+        padding: 15px 12px;
+        font-size: 13px;
+    }
+
+    .location_main {
+        padding: 20px 0px;
+    }
+
+    .location_main ul {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    button.owl-prev {
+        left: 0px;
+        position: absolute;
+    }
+
+    button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+
+    .price_taital {
+        font-size: 28px;
+    }
+
+    .contact_taital {
+        font-size: 28px;
+    }
+
+    .first_price_text {
+        font-size: 18px;
+        padding: 20px 15px 45px 15px;
+    }
+
+    .price_box {
+        width: 95%;
+        padding: 25px 15px 20px 15px;
+    }
+
+    .price_box ul li {
+        font-size: 14px;
+        padding: 6px 0;
+    }
+
+    .sound_text {
+        font-size: 18px;
+    }
+
+    /* Service section improvements for tablet */
+    .service_section .row .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .service_section .row .col-md-4 img {
+        max-width: 300px;
+        margin: 0 auto;
+        display: block;
+    }
 }
 
-.navbar-expand-lg .navbar-nav .nav-link{
-    text-align: center;
-}
-
-.user_icon{
-    display: none;
-}
-
-.banner_section {
-    padding-top: 60px;
-}
-
-.banner_taital {
-    font-size: 76px;
-    padding-top: 40px;
-}
-
-.banner_img {
-    width: 70%;
-}
-
-.contact_bt {
-    padding: 190px 0px 0px 0px;
-}
-
-.service_taital {
-    font-size: 38px;
-}
-
-.service_section_2 {
-    padding-top: 50px;
-}
-
-.image_box {
-    padding: 30% 140px;
-}
-
-.service_section .owl-item.active.center .image_box {
-    margin-bottom: 30px;
-}
-
-.about_taital {
-    font-size: 38px;
-}
-
-.price_section_2 {
-    width: 100%;
-
-}
-
-.taital_main {
-    width: 85%;
-}
-.dummy_text {
-    width: 50%;
-}
-.client_section_2 {
-    width: 100%;
-}
-
-.client_main {
-    border-radius: 10px;
-}
-
-.client_right {
-    padding-top: 15px;
-}
-.client_main_2 {
-    border-radius: 10px;
-}
-.client_right_2 {
-    padding-top: 15px;
-}
-
-.contact_main {
-    width: 100%;
-    padding-top: 40px;
-}
-.location_main li {
-    padding: 10px 6px;
-}
-.location_main {
-    padding: 20px 0px;
-}
-
-button.owl-prev {
-    left: 0px;
-    position: absolute;
-}
-
-button.owl-next {
-    right: 0px;
-    position: absolute;
-}
-
-
-} 
-
-
+/* ----------------------------------------
+   Mobile (max-width: 575px)
+   ---------------------------------------- */
 @media (max-width: 575px) {
 
+    /* Hero section mobile */
+    .hero_section {
+        padding: 30px 15px 60px 15px;
+    }
 
-.navbar-brand {
-    width: 40%;
+    .call_btn_hero {
+        top: 15px;
+        right: 15px;
+    }
+
+    .call_btn_hero a {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+
+    .call_btn_hero .padding_left10 {
+        display: none;
+    }
+
+    .logo_card {
+        padding: 20px;
+        border-radius: 16px;
+        margin-bottom: 20px;
+    }
+
+    .logo_card img {
+        max-height: 80px;
+    }
+
+    .heading_card {
+        padding: 25px 15px;
+        border-radius: 16px;
+    }
+
+    .hero_taital {
+        font-size: 24px;
+        letter-spacing: 1px;
+    }
+
+    .hero_subtitle {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+        padding: 12px 15px;
+        font-size: 16px;
+    }
+
+    .user_icon {
+        display: none;
+    }
+
+    .call_btn {
+        margin: 15px 0;
+        width: 100%;
+    }
+
+    .call_btn a {
+        padding: 12px 20px;
+        font-size: 14px;
+    }
+
+    .banner_section {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .banner_taital {
+        font-size: 32px;
+        padding-top: 0;
+    }
+
+    .banner_img {
+        width: 40%;
+    }
+
+    .contact_bt {
+        padding: 100px 0px 0px 0px;
+    }
+
+    .layout_padding {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    .service_taital {
+        font-size: 24px;
+        line-height: 1.3;
+    }
+
+    .service_section_2 {
+        padding-top: 30px;
+    }
+
+    .image_box {
+        padding: 30% 60px;
+    }
+
+    .service_section .owl-item.active.center .image_box {
+        margin-bottom: 30px;
+    }
+
+    .about_taital {
+        font-size: 24px;
+    }
+
+    .price_section_2 {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .taital_main {
+        width: 90%;
+    }
+
+    .dummy_text {
+        width: 70%;
+    }
+
+    .client_section_2 {
+        width: 100%;
+    }
+
+    .client_main {
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+    .client_right {
+        padding-top: 15px;
+        width: 100%;
+    }
+
+    .client_left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .client_main_2 {
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+    .client_right_2 {
+        padding-top: 15px;
+        width: 100%;
+        text-align: left;
+    }
+
+    .client_left_2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact_main {
+        width: 100%;
+        padding: 25px 15px;
+        margin: 0 10px;
+    }
+
+    .contact_taital {
+        font-size: 24px;
+        padding: 20px 0;
+    }
+
+    .email-bt {
+        height: 50px;
+        font-size: 15px;
+        padding: 0 20px;
+    }
+
+    .massage-bt {
+        height: 100px;
+        font-size: 15px;
+        padding: 15px 20px;
+    }
+
+    .send_bt button,
+    .send_bt a {
+        font-size: 16px;
+        padding: 14px 0;
+    }
+
+    .location_main li {
+        padding: 12px 8px;
+        font-size: 12px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .location_main {
+        padding: 15px 0px;
+    }
+
+    .location_main ul {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    button.owl-prev {
+        left: 0px;
+        position: absolute;
+    }
+
+    button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+
+    .price_taital {
+        font-size: 24px;
+    }
+
+    .price_taital::after {
+        width: 60px;
+        bottom: 0;
+    }
+
+    .first_price_text {
+        font-size: 16px;
+        padding: 18px 12px 40px 12px;
+        border-radius: 16px 16px 0 0;
+    }
+
+    .price_box {
+        width: 100%;
+        padding: 20px 12px 15px 12px;
+        border-radius: 0 0 16px 16px;
+    }
+
+    .price_box ul {
+        padding-left: 0;
+    }
+
+    .price_box ul li {
+        font-size: 13px;
+        padding: 5px 0;
+        line-height: 1.5;
+    }
+
+    .price_box ul li b {
+        font-size: 15px;
+    }
+
+    .sound_text {
+        font-size: 16px;
+    }
+
+    /* Service section - stack on mobile */
+    .service_section .row .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .service_section .row .col-md-4 img {
+        max-width: 250px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    /* Footer improvements for mobile */
+    .copyright_text {
+        font-size: 12px;
+        padding: 12px 10px;
+        line-height: 1.5;
+    }
+
+    /* Form message on mobile */
+    .form-message {
+        font-size: 14px;
+        padding: 12px;
+    }
+
+    /* CTA button adjustments */
+    .price_section_2 > .row > .col-md-8 > div[style*="background: linear-gradient"] {
+        padding: 25px 15px !important;
+        border-radius: 16px !important;
+    }
+
+    .price_section_2 > .row > .col-md-8 > div[style*="background: linear-gradient"] h2 {
+        font-size: 22px !important;
+    }
+
+    .price_section_2 > .row > .col-md-8 > div[style*="background: linear-gradient"] a {
+        padding: 12px 25px !important;
+        font-size: 15px !important;
+    }
 }
 
-.navbar-expand-lg .navbar-nav .nav-link{
-    text-align: center;
+/* ----------------------------------------
+   Extra Small Mobile (max-width: 375px)
+   ---------------------------------------- */
+@media (max-width: 375px) {
+
+    .navbar-brand img {
+        max-height: 70px;
+        max-width: 180px;
+    }
+
+    .service_taital {
+        font-size: 20px;
+    }
+
+    .price_taital {
+        font-size: 20px;
+    }
+
+    .contact_taital {
+        font-size: 20px;
+    }
+
+    .first_price_text {
+        font-size: 14px;
+    }
+
+    .price_box ul li {
+        font-size: 12px;
+    }
+
+    .location_main li {
+        font-size: 11px;
+        padding: 10px 5px;
+    }
+
+    .call_btn a {
+        font-size: 13px;
+        padding: 10px 15px;
+    }
 }
 
-.user_icon{
-    display: none;
+/* ----------------------------------------
+   Landscape Mode Adjustments
+   ---------------------------------------- */
+@media (max-height: 500px) and (orientation: landscape) {
+    .layout_padding {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .service_section {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .header_section {
+        position: relative;
+    }
 }
 
-.banner_section {
-    padding-top: 60px;
+/* ----------------------------------------
+   High DPI / Retina Displays
+   ---------------------------------------- */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .navbar-brand img {
+        image-rendering: -webkit-optimize-contrast;
+    }
 }
 
-.banner_taital {
-    font-size: 40px;
-    padding-top: 0;
+/* ----------------------------------------
+   Print Styles
+   ---------------------------------------- */
+@media print {
+    .header_section,
+    .footer_section,
+    .copyright_section,
+    .call_btn {
+        display: none;
+    }
+
+    .service_section {
+        background: #f5f5f5 !important;
+        color: #333 !important;
+        -webkit-print-color-adjust: exact;
+    }
+
+    .price_box {
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
 }
 
-.banner_img {
-    width: 40%;
-}
+/* ----------------------------------------
+   Accessibility - Reduced Motion
+   ---------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
 
-.contact_bt {
-    padding: 130px 0px 0px 0px;
-}
-
-.service_taital {
-    font-size: 30px;
-}
-
-.service_section_2 {
-    padding-top: 50px;
-}
-
-.image_box {
-    padding: 30% 88px;
-}
-
-.service_section .owl-item.active.center .image_box {
-    margin-bottom: 30px;
-}
-
-.about_taital {
-    font-size: 30px;
-}
-
-.price_section_2 {
-    width: 100%;
-}
-
-.taital_main {
-    width: 85%;
-}
-.dummy_text {
-    width: 50%;
-}
-.client_section_2 {
-    width: 100%;
-}
-
-.client_main {
-    border-radius: 10px;
-}
-
-.client_right {
-    padding-top: 15px;
-}
-.client_main_2 {
-    border-radius: 10px;
-}
-.client_right_2 {
-    padding-top: 15px;
-}
-
-.contact_main {
-    width: 100%;
-    padding-top: 40px;
-}
-.location_main li {
-    padding: 10px 6px;
-}
-.location_main {
-    padding: 20px 0px;
-}
-
-button.owl-prev {
-    left: 0px;
-    position: absolute;
-}
-
-button.owl-next {
-    right: 0px;
-    position: absolute;
-}
-
-
+    .call_btn a i {
+        animation: none;
+    }
 }
