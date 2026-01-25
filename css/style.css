@@ -619,6 +619,17 @@ button {
     object-fit: contain;
     margin: 0 auto;
     display: block;
+    border: 3px solid rgba(255, 255, 255, 0.4);
+    border-radius: 16px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+
+.service_section .row img:hover {
+    border-color: rgba(255, 255, 255, 0.8);
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.15);
 }
 
 .buy_bt {
