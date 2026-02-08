@@ -1454,6 +1454,20 @@ button.owl-next {
     box-shadow: var(--shadow-large);
 }
 
+/* Product image and package title anchor links */
+.service_section a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    cursor: pointer;
+}
+
+.pkg-back-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 /* Bounce animation for CTAs */
 .bounce-hover:hover {
     animation: bounce 0.5s ease;
