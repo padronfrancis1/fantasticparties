@@ -4,37 +4,37 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://fantasticpartiesyyc.com/</loc>
+    <loc>https://www.fantasticparties.ca/</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/fantastic_logo-removebg-preview.png</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/fantastic_logo-removebg-preview.png</image:loc>
       <image:title>Fantastic Parties YYC Logo</image:title>
       <image:caption>Kids party rentals in Calgary - Bumper cars, bubble domes, bouncy castles</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/bumper_cars_resized.png</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/bumper_cars_resized.png</image:loc>
       <image:title>Electric Bumper Cars for Kids Parties</image:title>
       <image:caption>Safe bumper cars rental for children ages 1-6 in Calgary</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/large_dome_resized.png</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/large_dome_resized.png</image:loc>
       <image:title>Large Bubble Dome Rental</image:title>
       <image:caption>Large bubble dome that fits up to 8 kids for parties</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/small_dome_resized.png</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/small_dome_resized.png</image:loc>
       <image:title>Small Bubble Dome Rental</image:title>
       <image:caption>Small bubble dome perfect for intimate kids parties</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/bouncy_resized.jpg</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/bouncy_resized.jpg</image:loc>
       <image:title>Bouncy Castle Rental Calgary</image:title>
       <image:caption>9x9x7 commercial grade bouncy castle for kids parties</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fantasticpartiesyyc.com/images/softplays.jpg</image:loc>
+      <image:loc>https://www.fantasticparties.ca/images/softplays.jpg</image:loc>
       <image:title>Soft Play Equipment Rental</image:title>
       <image:caption>Safe soft play with foam blocks and ball pit for toddlers</image:caption>
     </image:image>
@@ -42,7 +42,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://fantasticpartiesyyc.com/contact.html</loc>
+    <loc>https://www.fantasticparties.ca/contact.html</loc>
     <lastmod>2026-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

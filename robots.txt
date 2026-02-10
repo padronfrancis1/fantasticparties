@@ -1,5 +1,5 @@
 # robots.txt for Fantastic Parties YYC
-# https://fantasticpartiesyyc.com/robots.txt
+# https://www.fantasticparties.ca/robots.txt
 
 User-agent: *
 Allow: /
@@ -8,7 +8,7 @@ Disallow: /.claude/
 Disallow: /nul
 
 # Sitemap location
-Sitemap: https://fantasticpartiesyyc.com/sitemap.xml
+Sitemap: https://www.fantasticparties.ca/sitemap.xml
 
 # Crawl-delay for good practice
 Crawl-delay: 1
