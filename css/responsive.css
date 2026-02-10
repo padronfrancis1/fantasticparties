@@ -798,3 +798,96 @@
         animation: none;
     }
 }
+
+/* ============================================
+   PRODUCT PAGE RESPONSIVE
+   ============================================ */
+
+@media (max-width: 991px) {
+    .product-hero {
+        padding: 80px 15px 40px 15px;
+    }
+
+    .product-hero h1 {
+        font-size: 2rem;
+    }
+
+    .product-detail .product-card {
+        margin-top: 30px;
+    }
+
+    .cross-sell-card {
+        margin-bottom: 20px;
+    }
+
+    .cta-buttons a {
+        display: block;
+        margin: 10px auto;
+        max-width: 300px;
+    }
+
+    .steps-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767px) {
+    .product-hero {
+        padding: 70px 15px 30px 15px;
+    }
+
+    .product-hero h1 {
+        font-size: 1.6rem;
+    }
+
+    .product-card {
+        padding: 25px;
+    }
+
+    .content-card {
+        padding: 25px;
+    }
+
+    .faq-card {
+        padding: 25px;
+    }
+
+    .product-detail,
+    .product-content,
+    .product-faq,
+    .cross-sell-section,
+    .product-cta {
+        padding: 40px 0;
+    }
+
+    .steps-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .blog-card img {
+        height: 160px;
+    }
+
+    .blog-post-content {
+        padding: 25px;
+    }
+
+    .blog-hero {
+        padding: 70px 15px 30px 15px;
+    }
+}
+
+@media (max-width: 575px) {
+    .product-hero h1 {
+        font-size: 1.4rem;
+    }
+
+    .pricing-box .price-highlight {
+        font-size: 18px;
+    }
+
+    .cta-buttons a {
+        padding: 12px 25px;
+        font-size: 14px;
+    }
+}

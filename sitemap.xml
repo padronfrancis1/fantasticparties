@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://www.fantasticparties.ca/</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -40,12 +40,91 @@
     </image:image>
   </url>
 
+  <!-- Product Pages -->
+  <url>
+    <loc>https://www.fantasticparties.ca/bumper-cars.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/bumper_cars_resized.png</image:loc>
+      <image:title>Electric Bumper Cars Rental Calgary</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fantasticparties.ca/bubble-dome.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/large_dome_resized.png</image:loc>
+      <image:title>Large Bubble Dome Rental Calgary</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/small_dome_resized.png</image:loc>
+      <image:title>Small Bubble Dome Rental Calgary</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fantasticparties.ca/bouncy-castle.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/bouncy_resized.jpg</image:loc>
+      <image:title>Bouncy Castle Rental Calgary</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fantasticparties.ca/soft-play.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/softplays.jpg</image:loc>
+      <image:title>Soft Play Equipment Rental Calgary</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.fantasticparties.ca/kids-party-chairs-tables.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/chair-2.jpg</image:loc>
+      <image:title>Kids Party Chairs Rental Calgary</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.fantasticparties.ca/images/table.jpg</image:loc>
+      <image:title>Kids Party Tables Rental Calgary</image:title>
+    </image:image>
+  </url>
+
   <!-- Contact Page -->
   <url>
     <loc>https://www.fantasticparties.ca/contact.html</loc>
-    <lastmod>2026-01-25</lastmod>
+    <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://www.fantasticparties.ca/blog/</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.fantasticparties.ca/blog/best-kids-party-ideas-calgary-2026.html</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
 </urlset>

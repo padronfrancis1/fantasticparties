@@ -59,6 +59,36 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
    </head>
    <body>
+      <!-- header section start -->
+      <div class="header_section">
+         <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+               <a class="navbar-brand" href="index.html"><img src="images/fantastic_logo-removebg-preview.png" alt="Fantastic Parties YYC Logo"></a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                     <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="rentalDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Party Rentals</a>
+                        <div class="dropdown-menu" aria-labelledby="rentalDropdown">
+                           <a class="dropdown-item" href="bumper-cars.html">Bumper Cars</a>
+                           <a class="dropdown-item" href="bubble-dome.html">Bubble Domes</a>
+                           <a class="dropdown-item" href="bouncy-castle.html">Bouncy Castle</a>
+                           <a class="dropdown-item" href="soft-play.html">Soft Play</a>
+                           <a class="dropdown-item" href="kids-party-chairs-tables.html">Chairs & Tables</a>
+                        </div>
+                     </li>
+                     <li class="nav-item"><a class="nav-link" href="blog/">Blog</a></li>
+                     <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                  </ul>
+                  <div class="call_btn"><a href="tel:403-918-5507"><i class="fa fa-phone" aria-hidden="true"></i><span class="padding_left10">Call: 403-918-5507</span></a></div>
+               </div>
+            </nav>
+         </div>
+      </div>
+      <!-- header section end -->
       <!-- hero section start -->
       <div class="hero_section">
          <!-- Call button positioned top right -->
@@ -81,7 +111,7 @@
 
 
       <!-- service section start -->
-      <div class="service_section layout_padding">
+      <div class="service_section layout_padding" id="services">
          <div class="container">
             <div class="service_section_2 layout_padding">
                <h2 class="service_taital">Our Party Rentals in Calgary</h2>
@@ -89,28 +119,28 @@
                   <!-- First Row: 4 Products -->
                   <div class="row text-center">
                     <div class="col-md-3 col-sm-6" id="img-bumper-cars">
-                      <a href="#pkg-bumper-cars">
+                      <a href="bumper-cars.html">
                         <img src="images/bumper_cars_resized.png" class="img-fluid fun-hover" loading="lazy" alt="Electric Bumper Cars Rental Calgary - Safe Kids Party Entertainment Ages 1-6">
                         <h3 class="sound_text">Bumper <br>Cars</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">Ages 1-6 years</p>
                       </a>
                     </div>
                     <div class="col-md-3 col-sm-6" id="img-bubble-dome">
-                      <a href="#pkg-bubble-dome">
+                      <a href="bubble-dome.html">
                         <img src="images/large_dome_resized.png" class="img-fluid fun-hover" loading="lazy" alt="Large Bubble Dome Rental Calgary - Fits 8 Kids for Birthday Parties">
                         <h3 class="sound_text">Large <br>Bubble Dome</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">Fits up to 8 kids</p>
                       </a>
                     </div>
                     <div class="col-md-3 col-sm-6" id="img-small-dome">
-                      <a href="#pkg-bubble-dome">
+                      <a href="bubble-dome.html">
                         <img src="images/small_dome_resized.png" class="img-fluid fun-hover" loading="lazy" alt="Small Bubble Dome Rental Calgary - Perfect for Intimate Kids Parties">
                         <h3 class="sound_text">Small <br>Bubble Dome</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">Perfect for smaller groups</p>
                       </a>
                     </div>
                     <div class="col-md-3 col-sm-6" id="img-bouncy-castle">
-                      <a href="#pkg-bouncy-castle">
+                      <a href="bouncy-castle.html">
                         <img src="images/bouncy_resized.jpg" class="img-fluid fun-hover" loading="lazy" alt="Bouncy Castle Rental Calgary - 9x9x7 Commercial Grade for Kids Parties">
                         <h3 class="sound_text">Bouncy <br>Castle</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">9×9×7 feet</p>
@@ -121,21 +151,21 @@
                   <!-- Second Row: Soft Play, Chairs, Tables -->
                   <div class="row text-center" style="margin-top: 40px;">
                     <div class="col-md-4 col-sm-6" id="img-soft-play">
-                      <a href="#pkg-soft-play">
+                      <a href="soft-play.html">
                         <img src="images/softplays.jpg" class="img-fluid fun-hover" loading="lazy" alt="Soft Play Rental Calgary - Safe Foam Blocks Ball Pit for Toddlers Parties">
                         <h3 class="sound_text">Soft <br>Play</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">Safe indoor fun</p>
                       </a>
                     </div>
                     <div class="col-md-4 col-sm-6" id="img-chairs">
-                      <a href="#pkg-chairs">
+                      <a href="kids-party-chairs-tables.html">
                         <img src="images/chair-2.jpg" class="img-fluid fun-hover" loading="lazy" alt="Kids Party Chairs Rental Calgary - Affordable Children's Seating for Birthday Parties">
                         <h3 class="sound_text">Kids Party <br>Chairs</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">$3.00 each/day</p>
                       </a>
                     </div>
                     <div class="col-md-4 col-sm-6" id="img-tables">
-                      <a href="#pkg-tables">
+                      <a href="kids-party-chairs-tables.html">
                         <img src="images/table.jpg" class="img-fluid fun-hover" loading="lazy" alt="Kids Party Tables Rental Calgary - Affordable Children's Tables for Birthday Parties">
                         <h3 class="sound_text">Kids Party <br>Tables</h3>
                         <p style="color: white; opacity: 0.9; font-size: 14px;">$4.00 each/day</p>
@@ -485,7 +515,7 @@
           "reviewCount": "1"
         },
         "sameAs": [
-          "https://www.facebook.com/FantasticPartiesYYC",
+          "https://www.facebook.com/profile.php?id=61573584459272",
           "https://www.instagram.com/fantasticpartiesyyc/"
         ],
         "hasOfferCatalog": {

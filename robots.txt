@@ -6,6 +6,12 @@ Allow: /
 Disallow: /cgi-bin/
 Disallow: /.claude/
 Disallow: /nul
+Disallow: /docs/
+Disallow: /about.html
+Disallow: /services.html
+Disallow: /client.html
+Disallow: /Profusion-1.0.0/
+Disallow: /send_email.php
 
 # Sitemap location
 Sitemap: https://www.fantasticparties.ca/sitemap.xml
