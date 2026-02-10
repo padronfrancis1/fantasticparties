@@ -2051,17 +2051,28 @@ button.owl-next {
 /* Shared navbar additions for product pages */
 .header_section .navbar {
     padding: 8px 15px;
+    position: relative;
 }
 
 .header_section .navbar-brand {
     padding: 0;
-    display: flex;
-    align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
 }
 
 .header_section .navbar-brand img {
     max-height: 60px;
     width: auto;
+}
+
+.header_section .navbar-nav {
+    margin-right: auto;
+}
+
+.header_section .navbar-collapse {
+    z-index: 2;
 }
 
 .header_section .dropdown-menu {

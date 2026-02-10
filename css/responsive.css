@@ -804,6 +804,11 @@
    ============================================ */
 
 @media (max-width: 991px) {
+    .header_section .navbar-brand {
+        position: static;
+        transform: none;
+    }
+
     .product-hero {
         padding: 80px 15px 40px 15px;
     }
