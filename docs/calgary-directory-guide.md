@@ -8,7 +8,7 @@
 
 ```
 Business Name: Fantastic Parties YYC
-Phone: 403-918-5507
+Phone: 587-969-5441
 Email: fantasticpartiesyyc@gmail.com
 Website: https://www.fantasticparties.ca/
 Location: Calgary, AB, Canada
@@ -22,7 +22,7 @@ Facebook: https://www.facebook.com/profile.php?id=61573584459272
 Instagram: https://www.instagram.com/fantasticpartiesyyc/
 ```
 
-**NEVER vary this information.** Always use "403-918-5507" (not "403.918.5507" or "+1-403-918-5507"). Always use "Fantastic Parties YYC" (not "Fantastic Parties" or "FantasticPartiesYYC").
+**NEVER vary this information.** Always use "587-969-5441" (not "403.918.5507" or "+1-587-969-5441"). Always use "Fantastic Parties YYC" (not "Fantastic Parties" or "FantasticPartiesYYC").
 
 ---
 
@@ -45,7 +45,7 @@ These three platforms have the biggest impact on local SEO and customer discover
 5. Select **"Yes, I deliver goods and services to my customers"** (Service Area Business)
 6. Do NOT add a street address (you're home-based)
 7. Set service area: Enter "Calgary" and add surrounding communities if desired (Airdrie, Okotoks, Cochrane, Chestermere)
-8. Add phone: **403-918-5507**
+8. Add phone: **587-969-5441**
 9. Add website: **https://www.fantasticparties.ca/**
 10. Verify your business (Google will mail a postcard OR offer phone/email verification)
 
@@ -103,7 +103,7 @@ These three platforms have the biggest impact on local SEO and customer discover
 4. Enter business name: **Fantastic Parties YYC**
 5. Primary category: **Party & Event Planning**
 6. Secondary category: **Party Equipment Rentals**
-7. Add phone: **403-918-5507**
+7. Add phone: **587-969-5441**
 8. Add website: **https://www.fantasticparties.ca/**
 9. Location: Calgary, AB (select "Service area business")
 10. Hours: By Appointment
@@ -141,7 +141,7 @@ These three platforms have the biggest impact on local SEO and customer discover
 
 Since your page already exists, audit and optimize:
 
-- **About Section**: Ensure NAP matches exactly (Name: Fantastic Parties YYC, Phone: 403-918-5507, Website: https://www.fantasticparties.ca/)
+- **About Section**: Ensure NAP matches exactly (Name: Fantastic Parties YYC, Phone: 587-969-5441, Website: https://www.fantasticparties.ca/)
 - **Category**: Set to "Party Supply & Rental Shop" and "Children's Party Service"
 - **Services Tab**: Add all products as services with photos and pricing
   - Bounce House Rentals
@@ -275,7 +275,7 @@ These local directories improve your local SEO "citation profile" and help Calga
 2. Search for your business first (may already be listed)
 3. Enter business name: **Fantastic Parties YYC**
 4. Category: **Party Supplies & Equipment Rental**
-5. Add phone: **403-918-5507**
+5. Add phone: **587-969-5441**
 6. Add website: **https://www.fantasticparties.ca/**
 7. Location: Calgary, AB
 8. Verify via phone or email
@@ -306,7 +306,7 @@ These local directories improve your local SEO "citation profile" and help Calga
 2. Click "Business Owners" or search for your business
 3. Claim or add listing for **Fantastic Parties YYC**
 4. Category: **Party Supplies**
-5. Add phone: **403-918-5507**
+5. Add phone: **587-969-5441**
 6. Add website: **https://www.fantasticparties.ca/**
 7. Location: Calgary, AB
 8. Verify ownership
@@ -388,7 +388,7 @@ These directories boost your overall online presence and provide valuable backli
 5. Title: "Premium Bounce House & Party Equipment Rentals - Fantastic Parties YYC"
 6. Description: Include services, pricing, service area, contact info, website link
 7. Add 8-12 photos (Kijiji allows multiple)
-8. Contact: **403-918-5507** and **fantasticpartiesyyc@gmail.com**
+8. Contact: **587-969-5441** and **fantasticpartiesyyc@gmail.com**
 9. Add website: **https://www.fantasticparties.ca/**
 
 **Kijiji Strategy**:
@@ -416,7 +416,7 @@ These directories boost your overall online presence and provide valuable backli
 2. Click "Become a Pro"
 3. Select categories: **Party Entertainment**, **Party Equipment Rental**
 4. Create profile for **Fantastic Parties YYC**
-5. Add phone: **403-918-5507**
+5. Add phone: **587-969-5441**
 6. Add website: **https://www.fantasticparties.ca/**
 7. Service area: Calgary and surrounding areas
 8. Complete profile with photos, description, services, pricing
@@ -454,7 +454,7 @@ These directories boost your overall online presence and provide valuable backli
 2. Click "Sign Up as a Pro"
 3. Select categories: **Party Rentals**, **Kids Party Entertainment**
 4. Create profile for **Fantastic Parties YYC**
-5. Add phone: **403-918-5507**
+5. Add phone: **587-969-5441**
 6. Add website: **https://www.fantasticparties.ca/**
 7. Service area: Calgary, AB
 8. Upload photos and complete profile
@@ -492,7 +492,7 @@ These directories boost your overall online presence and provide valuable backli
 2. Click "Add Your Business"
 3. Business name: **Fantastic Parties YYC**
 4. Category: **Party Supplies & Rentals**
-5. Phone: **403-918-5507**
+5. Phone: **587-969-5441**
 6. Website: **https://www.fantasticparties.ca/**
 7. Email: **fantasticpartiesyyc@gmail.com**
 8. Location: Calgary, AB
@@ -521,7 +521,7 @@ These directories boost your overall online presence and provide valuable backli
 2. Search for your business or click "Register Business"
 3. Business name: **Fantastic Parties YYC**
 4. Category: **Event Services**
-5. Phone: **403-918-5507**
+5. Phone: **587-969-5441**
 6. Website: **https://www.fantasticparties.ca/**
 7. Location: Calgary, AB
 8. Verify via email
@@ -721,7 +721,7 @@ These are the Calgary parent groups mentioned earlier. This isn't a "directory" 
 1. **Google Your Business**:
    - Search "Fantastic Parties YYC"
    - Search "Fantastic Parties Calgary"
-   - Search "403-918-5507"
+   - Search "587-969-5441"
    - Note every site where your business appears
 
 2. **Check Key Directories**:
@@ -736,7 +736,7 @@ These are the Calgary parent groups mentioned earlier. This isn't a "directory" 
 
 3. **Verify Exact Match**:
    - Business name: **Fantastic Parties YYC** (not variations)
-   - Phone: **403-918-5507** (not alternate formats)
+   - Phone: **587-969-5441** (not alternate formats)
    - Website: **https://www.fantasticparties.ca/** (with https and trailing slash)
    - Email: **fantasticpartiesyyc@gmail.com**
 
@@ -787,12 +787,12 @@ Thank you so much, [Name]! We're thrilled [Child's Name] had such a great birthd
 
 **4-Star Review Response**:
 ```
-Thanks for the feedback, [Name]! We're glad [Child's Name] enjoyed the party. We'd love to know how we could have made it a 5-star experience - please feel free to reach out anytime at 403-918-5507. We're always looking to improve!
+Thanks for the feedback, [Name]! We're glad [Child's Name] enjoyed the party. We'd love to know how we could have made it a 5-star experience - please feel free to reach out anytime at 587-969-5441. We're always looking to improve!
 ```
 
 **3-Star or Lower Review Response** (CRITICAL):
 ```
-Hi [Name], thank you for your honest feedback. We're sorry we didn't meet your expectations. We'd like to make this right - could you please contact us at 403-918-5507 or fantasticpartiesyyc@gmail.com so we can discuss? We truly value your input and want to ensure you're satisfied.
+Hi [Name], thank you for your honest feedback. We're sorry we didn't meet your expectations. We'd like to make this right - could you please contact us at 587-969-5441 or fantasticpartiesyyc@gmail.com so we can discuss? We truly value your input and want to ensure you're satisfied.
 ```
 
 **Key Principles**:
@@ -851,7 +851,7 @@ Hi [Name], thank you for your honest feedback. We're sorry we didn't meet your e
 **Week 1: Promotion/Offer**
 ```
 Title: Weekend Special!
-Body: Book your bounce house for next weekend and get 10% off! Limited availability. Call 403-918-5507 or visit fantasticparties.ca to reserve.
+Body: Book your bounce house for next weekend and get 10% off! Limited availability. Call 587-969-5441 or visit fantasticparties.ca to reserve.
 CTA: Book Now
 ```
 
